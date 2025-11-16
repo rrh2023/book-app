@@ -2,21 +2,30 @@
 
 > An API meant to store & retrieve information of a user's favorite books from the OpenLibrary API. A project meant for voracious readers (such as myself!)
 
-## Getting Started
-
-### Usage
+## Usage
 
 Rename "config/config.env.env" to "config/config.env" and update the values/settings to your own
+
+## Install Dependencies
+```
+npm install
+```
+
+## Run App
+```
+# RUn in dev mode
+npm run dev
+
+#Run in prod mode
+npm start
+```
+
+- Version: 1.0.0
+- License: MIT
 
 ### Technologies
 * Node.js
 * MongoDB
-
-### Install Dependencies
-
-```
-npm install
-```
 
 ## Authors
 
