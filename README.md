@@ -13,7 +13,7 @@ npm install
 
 ## Run App
 ```
-# RUn in dev mode
+# Run in dev mode
 npm run dev
 
 #Run in prod mode
